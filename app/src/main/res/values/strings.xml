@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contatos</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_contact">AddContactActivity</string>
+
+    <string name="hint_nome">Nome</string>
+    <string name="hint_sobrenome">Sobrenome</string>
+    <string name="hint_telefone">Telefone</string>
+    <string name="hint_tipo_telefone"></string>
+    <string name="hint_email">Email</string>
+    <string name="text_botao_salvar">Salvar</string>
+</resources>
