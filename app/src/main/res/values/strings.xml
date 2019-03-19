@@ -8,5 +8,7 @@
     <string name="hint_telefone">Telefone</string>
     <string name="hint_tipo_telefone"></string>
     <string name="hint_email">Email</string>
+    <string name="hint_instagram">Instagram (somente nome de usuário)</string>
+    <string name="hint_linkedin">Linkedin</string>
     <string name="text_botao_salvar">Salvar</string>
 </resources>
